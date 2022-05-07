@@ -5,3 +5,10 @@ Some description
 ## Subheader
 
 Some more description
+
+### Local Development
+
+1. Open index.html in your browser.
+haha
+
+2. nothing to do now. 
